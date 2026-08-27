@@ -14,4 +14,3 @@ Live: https://anthonypiedt1-byte.github.io/mastering-xauusd/
 Built by Anthony Piedt — A.P💸🐐 — Cape Town, SA
 18+ · Educational only · Not financial advice
 
-VexFlow inspired minimal theme — #08080a / #5ce5d8 / #b48bff
